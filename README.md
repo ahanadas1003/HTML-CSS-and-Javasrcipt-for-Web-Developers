@@ -1,1 +1,1 @@
-# HTML, CSS and Javascript for Web Developers (John Hopkins University)
+# Module 2 Coding Solutions
